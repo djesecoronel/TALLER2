@@ -3,11 +3,6 @@ package taller.pkg2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author coronel
- */
-
 public class Punto1 {
     
     public static void main(String[] args) { 
